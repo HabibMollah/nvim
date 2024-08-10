@@ -16,7 +16,6 @@ call plug#end()
 colorscheme github_dark_default
 
 " Remaps
-" Remaps
 let mapleader = " "
 nnoremap <leader>e :Vex<CR>
 nnoremap <C-p> :GFiles<CR>
